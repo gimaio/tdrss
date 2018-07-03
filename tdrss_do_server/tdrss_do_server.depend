@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1530606279 source:/home/gmaio/Desktop/codeblocks_projects/tdrss/tdrss_do_server/DOServer.cpp
+	"Do_Table.h"
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<pthread.h>
+	<stdio.h>
+	<cstring>
+	<stdexcept>
+	<iterator>
+	<sstream>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<errno.h>
+	<fstream>
+	<inttypes.h>
+	"crc22.h"
+
+1530606349 /home/gmaio/Desktop/codeblocks_projects/tdrss/tdrss_do_server/Do_Table.h
+	<sstream>
+
+1530607767 /home/gmaio/Desktop/codeblocks_projects/tdrss/tdrss_do_server/crc22.h
+	<stdint.h>
+	<inttypes.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<pthread.h>
+	<stdio.h>
+	<cstring>
+	<stdexcept>
+	<iterator>
+	<sstream>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<errno.h>
+	<fstream>
+	<inttypes.h>
+	<bitset>
+

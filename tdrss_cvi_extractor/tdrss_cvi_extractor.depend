@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1530609533 source:/home/gmaio/Desktop/codeblocks_projects/tdrss/tdrss_cvi_extractor/CVIExtractor.cpp
+	"Do_Table.h"
+	<sys/types.h>
+	<netinet/in.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<pthread.h>
+	<sys/socket.h>
+	<stdio.h>
+	<cstring>
+	<stdexcept>
+	<iterator>
+	<sstream>
+	<sys/socket.h>
+	<stdlib.h>
+	<netinet/in.h>
+	<string.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<errno.h>
+	<fstream>
+
+1530606349 /home/gmaio/Desktop/codeblocks_projects/tdrss/tdrss_cvi_extractor/Do_Table.h
+	<sstream>
+
